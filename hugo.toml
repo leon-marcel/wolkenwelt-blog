@@ -1,0 +1,4 @@
+baseURL = 'https://wolkenwelt.org/'
+locale = 'en-us'
+title = 'wolkenwelt'
+theme = 'ananke'
