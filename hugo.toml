@@ -1,7 +1,7 @@
 baseURL = 'https://wolkenwelt.org/'
 locale = 'en-us'
 title = 'wolkenwelt'
-theme = 'ananke'
+theme = 'archie'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
