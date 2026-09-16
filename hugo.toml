@@ -1,4 +1,4 @@
-baseURL = 'https://wolkenwelt.org/'
+baseURL = 'https://wolkenwelt.cloud/'
 locale = 'en-us'
 title = 'wolkenwelt'
 theme = 'archie'
