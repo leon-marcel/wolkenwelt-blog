@@ -1,0 +1,18 @@
+# Hugo build output (only if you build via CI/Actions and don't commit public/)
+/public/
+
+# Hugo internal cache/pipeline
+/resources/_gen/
+/.hugo_build.lock
+
+# If using a Node-based toolchain (postcss, tailwind, npm theme deps)
+node_modules/
+package-lock.json  # keep this actually — only ignore if you don't want it tracked
+
+# OS/editor cruft
+.DS_Store
+.idea/
+.vscode/
+
+# Env/secrets if you ever add any build-time config
+.env

@@ -5,3 +5,5 @@ theme = 'archie'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+[params]
+  favicon = "/favicon.png"
